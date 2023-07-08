@@ -16,7 +16,17 @@ article{
     overflow-y: auto;
 }
 
+article img{
+    border: 4px lavender dotted;
+    background-color: black;
+}
+
 aside{
     flex: 1;
     overflow-y: auto;
+}
+
+.logo{
+    font-size: 3rem;
+    color: blueviolet;
 }
